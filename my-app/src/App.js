@@ -8,6 +8,7 @@ import { RouteName } from "./routes/Routes";
 // import "./assests/styling/globals.css'"
 // import './assets/styling/dark.css'
 // import './assets/styling/leftSidebarDark.css'
+
 function App() {
 
   const routes = [
